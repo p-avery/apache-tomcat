@@ -4,7 +4,7 @@
 tomcat-ansible-role
 ===================
 
-Ansible role to install and configure Apache Tomcat on CentOS/RHEL. 
+My Ansible role to install and configure Apache Tomcat on CentOS/RHEL. 
 
 
 Requirements
